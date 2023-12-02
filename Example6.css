@@ -1,0 +1,8 @@
+@charset "UTF-8";
+ body{
+            background-color: paleturquoise;
+            font-family: "Times New Roman", Times, serif;
+        }
+ .form-group{
+            line-height: 30px;
+        } 
